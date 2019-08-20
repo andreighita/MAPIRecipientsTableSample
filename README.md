@@ -1,5 +1,5 @@
 # MAPIRecipientsTableSample
-A code sample that illustrates how to access and update the recipients collection on Outlook items. 
+A code sample that illustrates how to access and update the recipients collection on Outlook items. The sample prompts for the profile to logon to. 
 
 # Warning
 Please do not run the exe on production mailboxes as it will result in chages to the recipients table. 
